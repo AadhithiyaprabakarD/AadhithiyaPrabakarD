@@ -150,11 +150,9 @@ machine learning, data analysis, and AI.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AadhithiyaprabakarD&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+### 🚀 Building consistently. Learning continuously.
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadhithiyaprabakarD&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+**61+ contributions and growing.**
 
 </div>
 
