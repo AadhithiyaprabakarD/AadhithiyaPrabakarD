@@ -125,48 +125,84 @@ machine learning, data analysis, and AI.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-```text
-🤖 Artificial Intelligence
-🧠 Machine Learning
-📊 Data Analysis
-🐍 Advanced Python
-💻 Data Structures & Algorithms
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Analysis
+- 🐍 Advanced Python
+- 💻 Data Structures & Algorithms
 
-🎯 My Goals
-🚀 Build practical AI/ML applications
-📊 Strengthen my Data Science fundamentals
-🧠 Improve algorithmic problem solving
-🔬 Work with real-world datasets
-🤖 Explore modern AI technologies
-🌱 Continuously learn and build
+---
 
+# 🎯 My Goals
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AadhithiyaprabakarD&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+- 🚀 Build practical AI/ML applications
+- 📊 Strengthen my Data Science fundamentals
+- 🧠 Improve algorithmic problem solving
+- 🔬 Work with real-world datasets
+- 🤖 Explore modern AI technologies
+- 🌱 Continuously learn and build
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AadhithiyaprabakarD&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadhithiyaprabakarD&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadhithiyaprabakarD&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
+</div>
 
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=AadhithiyaprabakarD&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </div>
+---
 
+# 🔥 Contribution Streak
 
-💡 What I Believe
 <div align="center">
 
-Learn → Build → Fail → Improve → Repeat
+<img src="https://streak-stats.demolab.com?user=AadhithiyaprabakarD&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+# 💡 What I Believe
+
+<div align="center">
+
+> **Learn → Build → Fail → Improve → Repeat**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aadhithiya-prabakar-d-28b5113aa">
+<img src="https://img.shields.io/badge/LinkedIn-Aadhithiya%20Prabakar%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AadhithiyaprabakarD">
+<img src="https://img.shields.io/badge/GitHub-AadhithiyaprabakarD-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer"/>
 
 </div>
 
 
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/aadhithiya-prabakar-d-28b5113aa"> <img src="https://img.shields.io/badge/LinkedIn-Aadhithiya%20Prabakar%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/AadhithiyaprabakarD"> <img src="https://img.shields.io/badge/GitHub-AadhithiyaprabakarD-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
 
-
-⭐ Thanks for visiting my profile!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=100&section=footer"/> </div> ```
-⚠️ Before you paste it
