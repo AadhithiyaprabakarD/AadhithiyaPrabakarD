@@ -102,6 +102,20 @@ Machine learning application that predicts house prices using
 
 <td width="50%">
 
+### 🔎 Web Search Engine
+
+A search engine project that ranks web pages based on their
+relevance and importance using **PageRank**, inverted indexing,
+and efficient data structures.
+
+**Tech Stack**
+
+`Python` `PageRank` `Inverted Index` `Max-Heap` `Data Structures`
+
+</td>
+
+<td width="50%">
+
 ### 🧠 DSA Practice
 
 Collection of Data Structures & Algorithms implementations and
@@ -112,6 +126,10 @@ problem-solving exercises using Python.
 `Python` `DSA` `Algorithms`
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -127,6 +145,7 @@ machine learning, data analysis, and AI.
 </td>
 
 </tr>
+
 </table>
 
 ---
