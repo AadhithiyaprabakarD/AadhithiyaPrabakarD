@@ -32,6 +32,8 @@ building real applications.
 
 ## ⚡ Tech Stack
 
+## ⚡ Tech Stack
+
 ### 🐍 Programming
 
 <p>
@@ -41,11 +43,14 @@ building real applications.
 ### 🤖 AI / ML & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`  
-`Machine Learning` • `Data Analysis` • `SQL`
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge" />
+</p>
 
 ### 🛠️ Tools
 
@@ -53,7 +58,9 @@ building real applications.
 <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-`Streamlit` • `Git` • `GitHub`
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
