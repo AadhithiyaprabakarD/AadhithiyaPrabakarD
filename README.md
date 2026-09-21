@@ -35,18 +35,16 @@ building real applications.
 ### 🐍 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🤖 AI / ML & Data
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
-`NumPy` • `Pandas` • `Scikit-learn`  
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn`  
 `Machine Learning` • `Data Analysis` • `SQL`
 
 ### 🛠️ Tools
